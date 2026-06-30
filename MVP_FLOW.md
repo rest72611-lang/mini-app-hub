@@ -6,6 +6,7 @@ The MVP is based on a simple local execution flow:
 2. The user selects or requests to run the app.
 3. The backend receives the app configuration.
 4. The backend validates the input.
+   - If validation fails, the backend returns a clear error and no container is started.
 5. The backend starts the Docker container locally.
 6. The system maps the required ports.
 7. The user can check status and view logs.
