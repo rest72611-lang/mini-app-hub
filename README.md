@@ -4,6 +4,25 @@ Mini App Hub is an entrepreneurial product concept focused on simplifying how sm
 
 The idea is to create a guided local hub for Docker-based mini-apps, so a small business can run tools such as dashboards, forms, admin panels, automations, or internal systems without needing to understand the full deployment process.
 
+## MVP Evidence
+
+This public repository presents the concept, architecture, and MVP direction without exposing the private implementation.
+
+The private MVP direction includes a backend flow for managing local Docker-based mini-apps through structured API endpoints.
+
+Public documentation includes:
+
+- Architecture flow
+- MVP flow
+- Roadmap
+- Safe example API direction
+- Explanation of the business problem and technical approach
+
+See:
+
+- `docs/architecture-flow.md`
+- `docs/mvp-evidence.md`
+
 ## The Problem
 
 Many small businesses need simple internal software, but the technical setup can become too complex:
@@ -50,6 +69,8 @@ The public version of this repository is intended to present the concept, produc
 - `CONCEPT_IMPLEMENTATION.md` - MVP implementation approach without exposing private source code
 - `MVP_FLOW.md` - Step-by-step MVP flow
 - `ROADMAP.md` - Planned development phases
+- `docs/architecture-flow.md` - Public architecture flow diagram
+- `docs/mvp-evidence.md` - Safe MVP evidence and example API direction
 
 ## Author
 
