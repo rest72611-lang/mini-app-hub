@@ -43,6 +43,14 @@ The public version of this repository is intended to present the concept, produc
 - API design
 - Understanding of real deployment pain points for small businesses
 
+## Repository Structure
+
+- `README.md` - Product concept and positioning
+- `ARCHITECTURE.md` - High-level architecture direction
+- `CONCEPT_IMPLEMENTATION.md` - MVP implementation approach without exposing private source code
+- `MVP_FLOW.md` - Step-by-step MVP flow
+- `ROADMAP.md` - Planned development phases
+
 ## Author
 
 Arie Steinberg  
